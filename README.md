@@ -1,7 +1,7 @@
 -  Hi, I’m @venusgurung
 -  I’m interested in anything data related.
--  I’m currently learning Java and SQL
--  I’m looking to collaborate on amateur projects with good mentors
+-  Currently learning Java and SQL
+-  Always looking to connect and collaborate with data enthusiasts!
   
 
 <!---
